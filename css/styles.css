@@ -1,0 +1,30 @@
+html{
+    background-color: aliceblue;
+}
+
+h1{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 3rem;
+}
+
+.welcome, h2{
+    display: inline;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.name-question{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.nameList{
+    text-align: center;
+    margin-top: 300px;
+}
+
+.randomNum{
+    text-align: center;
+    font-size: 6rem;
+}
